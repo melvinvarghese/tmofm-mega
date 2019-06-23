@@ -36,4 +36,4 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" sr
 </head>
 
 <body>
-<center><img src="templates/plugmod/images/logo_pm.gif" alt="RapidLeech PlugMod" border="0" /></center><br />
+<center><img src="templates/plugmod/images/logo_pm.gif" alt="RapidLeech | Melvin" border="0" /></center><br />
